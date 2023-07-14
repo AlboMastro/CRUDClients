@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Francesca",
+        "surname": "Russo",
+        "fiscalCode": "RSSFNC85A06G789V",
+        "dateOfBirth": "1985-06-10",
+        "email": "francesca.russo@example.com",
+        "username": "francescarusso",
+        "netWorth": 2000000
+    },
+    {
+        "id": 2,
+        "name": "Marco",
+        "surname": "De Luca",
+        "fiscalCode": "DLCMRC92A15F986X",
+        "dateOfBirth": "1992-01-15",
+        "email": "marco.deluca@example.com",
+        "username": "marcodeluca",
+        "netWorth": 1500000
+    },
+    {
+        "id": 3,
+        "name": "Valentina",
+        "surname": "Ferraro",
+        "fiscalCode": "FRRVNT83D56B123Q",
+        "dateOfBirth": "1983-04-27",
+        "email": "valentina.ferraro@example.com",
+        "username": "valentinaferraro",
+        "netWorth": 3000000
+    },
+    {
+        "id": 4,
+        "name": "Matteo",
+        "surname": "Ricci",
+        "fiscalCode": "RCCMTT91C02A456R",
+        "dateOfBirth": "1991-03-02",
+        "email": "matteo.ricci@example.com",
+        "username": "matteoricci",
+        "netWorth": 2500000
+    },
+    {
+        "id": 5,
+        "name": "Chiara",
+        "surname": "Conti",
+        "fiscalCode": "CNTCHR88R03D987P",
+        "dateOfBirth": "1988-07-20",
+        "email": "chiara.conti@example.com",
+        "username": "chiarconti",
+        "netWorth": 1800000
+    },
+    {
+        "id": 6,
+        "name": "Luca",
+        "surname": "Marini",
+        "fiscalCode": "MRNLCU89B10E543M",
+        "dateOfBirth": "1989-02-10",
+        "email": "luca.marini@example.com",
+        "username": "lucamarini",
+        "netWorth": 2200000
+    },
+    {
+        "id": 7,
+        "name": "Sofia",
+        "surname": "Galli",
+        "fiscalCode": "GLLSFI96C48F321L",
+        "dateOfBirth": "1996-11-28",
+        "email": "sofia.galli@example.com",
+        "username": "sofiagalli",
+        "netWorth": 2800000
+    }
+]
