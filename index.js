@@ -1,9 +1,11 @@
 const express = require('express');
 const fs = require('fs');
+const cors = require('cors');
 const app = express();
-const port = 3000; // Choose a port number that is not already in use
+const port = 3000;
 
-app.use(express.json()); // Add this line to enable JSON request body parsing
+app.use(express.json());
+app.use(cors());
 
 // Logging middleware
 app.use((req, res, next) => {
